@@ -1,4 +1,4 @@
-# **Text based Social Media APP RESTful APIs (similar to Twitter)**
+# **Text based Social Media RESTful APIs (similar to Twitter)**
 
 ## Spring Boot web application Project:
 This is Web application project to Manage Todos
