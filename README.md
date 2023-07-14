@@ -37,7 +37,7 @@ http://localhost:8080/swagger-ui/index.html
 
 ## API Documentation screenshots:
 ### List of RESTful APIs 
-![Alt text](images/)
+![Alt text](https://github.com/shivakumar96/SpringBoot-RESTful-Twitter-API/blob/main/images/Screenshot1.png)
 
 ### user API
-![Alt text](images/)
+![Alt text](https://github.com/shivakumar96/SpringBoot-RESTful-Twitter-API/blob/main/images/Screenshot2.png)
