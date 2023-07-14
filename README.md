@@ -16,7 +16,7 @@ This is Web application project to Manage Todos
 Refer pom.xml for dependencies.
 ### Note: to execute APIs we need REST client App such as Postman.
 
-## Request Code Access, to download it form the Github
+## Clone Repository from GitHub
 Run the below command to clone code from github
 ```
 git clone https://github.com/shivakumar96/Task-Manger-SpringBoot-webApplication.git
